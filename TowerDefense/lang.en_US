@@ -1,0 +1,78 @@
+germanLabel=German
+englishLabel=English
+
+towerInfoRange=Range: {0}
+towerInfoEfficiency=Efficiency: {0}
+towerInfoCdtime=Cooldown: {0}
+towerInfoDpt=Damage: {0}
+towerInfoBounty=Value: {0}
+
+upgradeRange=Upgrade range
+
+upgradeEfficiency=Upgrade efficiency
+
+sell=Sell
+
+aoeTower=AoE Tower
+slowTower=Slow Tower
+laserTower=Laser Tower
+sniperTower=Sniper Tower
+
+height=Height:
+width=Width:
+cancel=Cancel
+generateLevelTitle=Generate level
+
+onlyNumbers=Only numbers!
+leastInfo=<html>Minimum size 10x10<br>Maximum size 20x20</html>
+
+on=On
+off=Off
+
+skin=Skin
+skin1=Default
+skin2=Black&White
+skin3=Colored
+resume=Resume
+
+aoeTowerInfo=<html>AoE Tower<br><br>Range: 50<br>Dps: {0} <br>Cost: 75<br><br>Info: Attacks all enemies in range, causing X damage per second</html>
+slowTowerInfo=<html>Slow Tower<br><br>Range: 55<br> Slow: 33% <br>Cost: 100 <br><br>Info: Slows down all enemies in range by 33% / 67%</html>
+sniperTowerInfo=<html>Sniper Tower<br><br>Range: 120<br> Damage: 90 <br>Cost: 25 <br><br>Info: Attacks to all X seconds an enemy in range, causing Y armor ignoring damage</html>
+laserTowerInfo=<html>Laser Tower<br><br>Range: 75<br>Dps: {0} <br>Cost: 50 <br><br>Info: Attacks an enemy in range, causing X damage per second</html>
+
+notEnoughMoney=<html><div align=\"center\"><font size=\"5\">Not enough money</font></div></html>
+money=Money: {0}
+lives=Lives: {0}
+language=Language
+generateLevel=<html><div align=\"center\">Generate<br>level</div></html>
+quit=Quit
+start=Restart
+skipSpawn=<html><div align=\"center\">Skip<br>spawn</div></html>
+speed=Speed
+pausedLabel=<html><div align=\"center\"><font size=\"5\">Game paused</font></div></html>
+
+currentWaveInfoBegin=<html>Current monster:<br><br> Type: ---<br> Livepoints: ---<br>Armor: ---<br>Speed: ---<br> Provides: ---<br> Info: ---</html>
+currentWaveInfo=<html>Current monster:<br><br> Type: {0}<br> Livepoints: {1}<br>Armor: {2}<br>Speed: {3}<br> Provides: {4}<br> Info: {5}</html>
+nextWaveIn=<html><div align=\"center\"><font size=\"7\">Next wave in</font></div></html>
+
+healer=Healer
+healerInfo=Is cured by WB towers 
+runner=Runner
+runnerInfo=Twice as fast as other monsters 
+speed=Speed
+speedInfo=Is accelerated by slow towers 
+tank=Tank
+tankInfo=Increased Armor 
+
+lostGame=<html><div align=\"center\"><font size=\"7\">Game over ! ! !</font></div></html>
+wonGame=<html><div align=\"center\"><font size=\"7\">Game won ! ! !</font></div></html>
+
+upgradeRangeLabel=<html>Range upgrade:<br>Level: {0} -> {1}<br>Range: {2} -> {3}<br><br>Cost: {4}</html>
+efficiencyTemp1=Dps: {0} -> {1}
+efficiencyTemp2=Dps: {0} -> {1}
+efficiencyTemp3=Slow: {0} -> {1}
+efficiencyTemp4=Damage: {0} -> {1}<br>Reload time: {2} -> {3}
+upgradeEfficiencyLabel=<html>Efficiency upgrade:<br>Level: {0} -> {1}<br>{2}<br><br>Cost: {3}</html>
+fullUpgraded=<html><br><br>Full upgraded</html>
+sellLabel=<html>Sell:<br>Value: {0}<br><br>Money: {1} -> {2}
+

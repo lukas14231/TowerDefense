@@ -1,0 +1,78 @@
+germanLabel=Deutsch
+englishLabel=Englisch
+
+towerInfoRange=Reichweite: {0} 
+towerInfoEfficiency=Effizienz: {0}
+towerInfoCdtime=Abklingzeit: {0}
+towerInfoDpt=Schaden: {0}
+towerInfoBounty=Wert: {0}
+
+upgradeRange=Verbessere Reichweite
+
+upgradeEfficiency=Verbessere Effizienz
+
+sell=Verkaufen
+
+aoeTower=WB Turm
+slowTower=Frost Turm
+laserTower=Laser Turm
+sniperTower=Sniper Turm
+
+height=Höhe:
+width=Breite:
+cancel=Abbrechen
+generateLevelTitle=Leven generieren
+
+onlyNumbers=Nur Zahlen!
+leastInfo=<html>Mindestfeldgröße 10x10<br>Maximalfeldgröße 20x20</html>
+
+skin=Aussehen
+skin1=Standard
+skin2=Schwarz/Weis
+skin3=Bunt
+resume=Weiter
+
+on=An
+off=Aus
+
+aoeTowerInfo=<html>WB Turm<br><br>Reichweite: 50<br>Dps: {0} <br>Kosten: 75<br><br>Info: Greift alle Gegner in Reichweite an und verursacht X Schaden pro Sekunde</html>
+slowTowerInfo=<html>Frost Turm<br><br>Reichweite: 55<br> Verlangsamung: 33% <br>Kosten: 100 <br><br>Info: Verlangsamt alle Gegner in Reichweite um 33%/67%</html>
+sniperTowerInfo=<html>Scharfschütze Turm<br><br>Reichweite: 120<br> Schaden: 90 <br>Kosten: 25 <br><br>Info: Greift alle X Sekunden einen Gegner in Reichweite an und verursacht Y Rüstungsignorierenden Schaden</html>
+laserTowerInfo=<html>Laser Turm<br><br>Reichweite: 75<br>Dps: {0} <br>Kosten: 50 <br><br>Info: Greift einen Gegner in Reichweite an und verursacht X Schaden pro Sekunde</html>
+
+notEnoughMoney=<html><div align=\"center\"><font size=\"5\">Nicht genug Geld</font></div></html>
+money=Geld: {0}
+lives=Leben: {0}
+language=Sprache
+generateLevel=<html><div align=\"center\">Generiere<br>Level</div></html>
+quit=Beenden
+start=Neustart
+skipSpawn=<html><div align=\"center\">Spawn<br>überspringen</div></html>
+speed=Geschwindigkeit
+pausedLabel=<html><div align=\"center\"><font size=\"5\">Spiel pausiert</font></div></html>
+
+currentWaveInfoBegin=<html>Aktuelle Monster:<br><br> Typ: ---<br> Lebenspunkte: ---<br>Rüstung: ---<br>Geschwindigkeit: ---<br> Erbringt: ---<br> Info: ---</html>
+currentWaveInfo=<html>Aktuelle Monster:<br><br> Typ: {0}<br> Lebenspunkte: {1}<br>Rüstung: {2}<br>Geschwindigkeit: {3}<br> Erbringt: {4}<br> Info: {5}</html>
+nextWaveIn=<html><div align=\"center\"><font size=\"7\">Nächste Welle in</font></div></html>
+
+healer=Heiler
+healerInfo=Wird von WB Türmen geheilt 
+runner=Renner
+runnerInfo=Doppelt so schnell wie andere Monster 
+speed=Geschwindigkeit
+speedInfo=Wird von Frosttürmen beschleunigt
+tank=Panzer
+tankInfo=Erhöhte Rüstung
+
+lostGame=<html><div align=\"center\"><font size=\"7\">Spiel verloren ! ! !</font></div></html>
+wonGame=<html><div align=\"center\"><font size=\"7\">Spiel gewonnen ! ! !</font></div></html>
+
+upgradeRangeLabel=<html>Reichweite verbessern:<br>Level: {0} -> {1}<br>Reichweite: {2} -> {3}<br><br>Kosten: {4}</html>
+efficiencyTemp1=Dps: {0} -> {1}
+efficiencyTemp2=Dps: {0} -> {1}
+efficiencyTemp3=Verlangsamung: {0} -> {1}
+efficiencyTemp4=Schaden: {0} -> {1}<br>Nachladezeit: {2} -> {3}
+upgradeEfficiencyLabel=<html>Effizienz verbessern:<br>Level: {0} -> {1}<br>{2}<br><br>Kosten: {3}</html>
+fullUpgraded=<html><br><br>Voll ausgebaut</html>
+sellLabel=<html>Verkaufen:<br>Wert: {0}<br><br>Geld: {1} -> {2}
+
